@@ -1,0 +1,21 @@
+{
+  "name": "海星中學數位載具管理",
+  "short_name": "海星載具",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#005f99",
+  "theme_color": "#005f99",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/005f99/ffffff?text=HS",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/005f99/ffffff?text=HS",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
